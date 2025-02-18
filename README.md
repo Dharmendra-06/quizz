@@ -1,3 +1,4 @@
 # quizz
 This is my first Git Repository.
-Author - Dharmendra Kumar
+<br>
+Author - Dharmendra Kumar (My Self)
